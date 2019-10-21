@@ -8,4 +8,4 @@ pytz==2018.5
 requests==2.19.1
 six==1.11.0
 speedtest-cli==2.0.2
-urllib3==1.23
+urllib3==1.24.2
